@@ -1,0 +1,19 @@
+/*
+try with
+http://cmserver.corp.radialpoint.com/teamcity/login.html
+*/
+body {
+	background-color:green;
+}
+
+.logo {
+	background-color:blue;
+}
+
+.versionTag {
+	background-color:purple;
+}
+
+#pageContent {
+	background-color:orange;
+}

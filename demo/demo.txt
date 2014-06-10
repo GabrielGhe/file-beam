@@ -1,0 +1,19 @@
+DEMO sites
+
+http://cmserver.corp.radialpoint.com/teamcity/login.html
+test.css		-- 			(changing the page colors, styling css)
+test.js 		--			(typing into a field, simple automation)
+
+
+http://stackoverflow.com/
+test2.js 		--			(scroll down a page, create macros for repetitive tasks in javascript!)
+test2.css		--			(hide the side bar, modify a css to see how it would look like)
+
+
+https://www.google.ca/webhp?tab=ww&ei=u-2RU7PENs3B8gH2s4HoDA&ved=0CBQQ1S4#q=javascript+stack+overflow
+test3.js		--			(go through google)
+
+
+http://bootswatch.com/
+bootstrap.css		--		(test out bootstrap themes)
+bootstrap2.css		--		(more testing of bootstrap themes)
